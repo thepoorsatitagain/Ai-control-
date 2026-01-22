@@ -1,4 +1,5 @@
-see also https://github.com/thepoorsatitagain/Ai-control-2
+see also https://github.com/thepoorsatitagain/Ai-control-2    <img width="324" height="118" alt="image" src="https://github.com/user-attachments/assets/23ee3cde-171b-489a-be42-01c9ab26b16a" />
+
 
 
 # Ai-control-
