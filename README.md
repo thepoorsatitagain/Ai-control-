@@ -1,3 +1,6 @@
+see also https://github.com/thepoorsatitagain/Ai-control-2
+
+
 # Ai-control-
 Draft 32 is the bones
 TITLE: AUTHENTICATED AI CONTROL PLANE WITH VERSION-CONTROLLED 
